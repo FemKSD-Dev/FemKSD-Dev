@@ -6,7 +6,7 @@ Full stack developer
 
 I graduated as an electrical engineer but am interested in coding. So I decided to change career paths and taught myself how to code for 3 years while I was an undergrad. I learned PHP and C as my first language and I continued to learning it with other tools and languages. Until I was able to do a full stack, Now I never stop learning about coding. And I have the biggest passion for coding.
 
-* 🌍  I'm based in Songkhla, Thailand
+* 🌍  I'm based in Samut Prakan, Thailand
 * ✉️  You can contact me at [fem.ksd@gmail.com](mailto:fem.ksd@gmail.com)
 * 🧠  I'm learning React, NextJS, NuxtJS, MongoDB, Lua for gaming
 
